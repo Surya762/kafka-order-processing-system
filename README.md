@@ -1,5 +1,14 @@
 # Kafka Order Processing System
 
+# 🚀 Kafka Order Processing System
+
+![Java](https://img.shields.io/badge/Java-25-orange)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-3.5-brightgreen)
+![Kafka](https://img.shields.io/badge/Apache-Kafka-black)
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
+![Maven](https://img.shields.io/badge/Maven-3.9-red)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHubActions-success)
+
 A real-time event-driven Order Processing System built using Spring Boot, Apache Kafka, Docker, and Maven.
 
 ## 🚀 Features
